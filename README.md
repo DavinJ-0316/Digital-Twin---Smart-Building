@@ -13,6 +13,8 @@ Digital Twin - Smart Building: Based on the initial version, add a time bar. Whe
 
 - View the demonstration: https://davinj-0316.github.io/Digital-Twin---Smart-Building/?token=password
 
+- Please open it in Chrome
+
 # Different prediction rate:
 
 - You can adjust the prediction percentage by adding ?forecast_len_ratio=0.1 or ?forecast_len_ratio=0.2 or ?forecast_len_ratio=0.3
